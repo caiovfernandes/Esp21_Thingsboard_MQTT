@@ -1,0 +1,11 @@
+.pio
+.vscode/
+
+build/
+
+cmake-build-debug/
+
+.pio/
+
+.idea/
+
