@@ -13,8 +13,8 @@
 #include "lwip/err.h"
 #include "lwip/sys.h"
 
-#define WIFI_SSID "MeshAX6000"
-#define WIFI_PASS "15151515151515151515151515"
+#define WIFI_SSID "UNB Wireless"
+#define WIFI_PASS "coca-cola1"
 #define WIFI_MAXIMUM_RETRY 5
 
 #define WIFI_CONNECTED_BIT BIT0
